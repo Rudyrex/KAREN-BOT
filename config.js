@@ -67,7 +67,7 @@ global.faceb = 'https://facebook.com/groups/872989990425789/'
 
 global.vs = '1.5.0'
 
-global.lb = 'ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ'
+global.lb = 'ᴋᴀʀᴇɴ-ʙᴏᴛ'
 global.lolibot = lb
 
 global.dygp = 'https://chat.whatsapp.com/FfiQUYDDtaG9bwaI7UKMAR' //grupo del bot
